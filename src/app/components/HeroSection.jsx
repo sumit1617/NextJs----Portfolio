@@ -33,9 +33,11 @@ const HeroSection = () => {
             काल हर, कष्ट हर, दुख हर, दरिद्र हर, हर हर महादेव | जय भोलेनाथ 🚩🙏
           </p>
           <div>
-            <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 via-purple-500 to-secondary-500 hover:bg-slate-200 text-white">
-              Hire Me
-            </button>
+            <a href="mailto:sumitkumar.singh1617@gmail.com">
+              <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 via-purple-500 to-secondary-500 hover:bg-slate-200 text-white">
+                Hire Me
+              </button>
+            </a>
             <a href="https://drive.google.com/file/d/14iW22V7mqlPwBGIQkvvB8Bl4zNOXWXF_/view?usp=drive_link">
               <button className="px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 via-purple-500 to-secondary-500 hover:bg-slate-800 text-white mt-3">
                 <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
