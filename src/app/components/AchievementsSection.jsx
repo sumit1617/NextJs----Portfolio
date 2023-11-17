@@ -15,7 +15,7 @@ const achievementsList = [
     value: "100+",
   },
   {
-    metric: "GCPA",
+    metric: "CGPA",
     value: "8.41",
   },
   {

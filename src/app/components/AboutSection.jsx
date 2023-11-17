@@ -69,7 +69,7 @@ const TAB_DATA = [
           4⭐Badge in Python & 3⭐Badge in C++ on Hackerrank Platform
         </li>
         <li>
-          <span className="font-bold">TSECcodetantra: </span>
+          <span className="font-bold">TSEC-Codetantra: </span>
           Participated in the hackathon organized by the Thadomal Sahani College
           of Engineering
         </li>
