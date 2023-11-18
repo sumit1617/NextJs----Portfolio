@@ -30,7 +30,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            काल हर, कष्ट हर, दुख हर, दरिद्र हर, हर हर महादेव | जय भोलेनाथ 🚩🙏
+            "I command computers 💻 to execute tasks, and there are moments when
+            they actually follow my lead 😁😎."
           </p>
           <div>
             <a href="mailto:sumitkumar.singh1617@gmail.com">
