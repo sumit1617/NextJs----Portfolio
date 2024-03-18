@@ -8,8 +8,10 @@ const projectsData = [
   {
     id: 1,
     title: "Next Portfolio Website",
-    description:
-      "Greetings on my portfolio site! I've developed this platform with Next.js to exhibit my top-notch work as a creative professional. Explore samples of my projects and discover more about me and my skills on the About page. Don't hesitate to reach out through the Contact page if you're keen on collaborating. Appreciate your visit!",
+    description: `Greetings on my portfolio site! I've developed this platform with Next.js to exhibit my top-notch work as a creative professional. 
+    Explore samples of my projects and discover more about me and my skills on the About page. 
+    Don't hesitate to reach out through the Contact page if you're keen on collaborating. 
+    Appreciate your visit!`,
     image: "/images/projects/PF1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/sumit1617/NextJs----Portfolio",
@@ -18,8 +20,11 @@ const projectsData = [
   {
     id: 2,
     title: "Buy It Now",
-    description:
-      "• Developed a fully functional eCommerce website using the MERN (MongoDB, Express.js, React.js, Node.js) stack. • Designed and implemented the backend architecture using Node.js and Express.js creating RESTful APIs. • Developed a scalable MongoDB database to store information. • Implemented secure user authentication and authorization mechanisms. • Integrated payment gateways like Stripe to enable secure and smooth payment",
+    description: `• Developed a fully functional eCommerce website using the MERN (MongoDB, Express.js, React.js, Node.js) stack. 
+    • Designed and implemented the backend architecture using Node.js and Express.js creating RESTful APIs. 
+    • Developed a scalable MongoDB database to store information. 
+    • Implemented secure user authentication and authorization mechanisms. 
+    • Integrated payment gateways like Stripe to enable secure and smooth payment`,
     image: "/images/projects/biy3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/sumit1617/buy-it-now",
@@ -27,6 +32,19 @@ const projectsData = [
   },
   {
     id: 3,
+    title: "MERAA-GPT",
+    description: `• Developed a CHATGPT clone using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
+      • Leveraged Node.js and Express.js to create a robust backend server, handling user requests and facilitating communication with the OpenAI API for generating AI-driven responses.
+      • Utilized MongoDB to store user data and chat history securely, enabling seamless retrieval and storage of conversations of a user.
+      • Integrated the powerful OpenAI API for natural language processing, enabling the CHATGPT clone to generate contextually relevant and human-like responses to user queries and
+      prompts.`,
+    image: "/images/projects/MGPT1.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/sumit1617/MERAA-GPT",
+    previewUrl: "/",
+  },
+  {
+    id: 4,
     title: "Keeper App",
     description:
       "This project is a Keeper app built using ReactJS 📝. The app can be useful to keep a track of your day-to-day works to do. Notes can be created and deleted.",
@@ -37,10 +55,11 @@ const projectsData = [
     previewUrl: "/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Cafe Delight",
-    description:
-      "• This simple coffee shopping project is built on Python using the Tkinter library. • Simple online coffee shopping where users can login and register to buy coffee. • Various pages like the welcome page, menu card, cart, track of the order, etc. built using the Tkinter library.",
+    description: `• This simple coffee shopping project is built on Python using the Tkinter library. 
+      • Simple online coffee shopping where users can login and register to buy coffee. 
+      • Various pages like the welcome page, menu card, cart, track of the order, etc. built using the Tkinter library.`,
     image: "/images/projects/CD1.png",
     tag: ["All", "Python"],
     gitUrl: "https://github.com/sumit1617/cafe_delight",
