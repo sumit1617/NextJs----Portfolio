@@ -12,6 +12,7 @@ const TAB_DATA = [
         <li>C++</li>
         <li>Python</li>
         <li>Javascript</li>
+        <li>C#</li>
         <li>NodeJs</li>
         <li>ExpressJs</li>
         <li>ReactJs</li>
@@ -48,7 +49,7 @@ const TAB_DATA = [
           <a href="https://leetcode.com/SumitSingh18/" className="font-bold">
             <span className="font-bold">Leetcode: </span>
           </a>
-          Solved 80+ problems
+          Solved 90+ problems
         </li>
         <li>
           <a
@@ -66,7 +67,7 @@ const TAB_DATA = [
           >
             <span className="font-bold">Hackerrank: </span>
           </a>
-          4⭐Badge in Python & 3⭐Badge in C++ on Hackerrank Platform
+          5⭐Badge in Python & 4⭐Badge in C++ on Hackerrank Platform
         </li>
         <li>
           <span className="font-bold">TSEC-Codetantra: </span>
